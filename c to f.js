@@ -32,3 +32,10 @@ function myFunction(a, b) {
 // Function returns the product of a and b
   return a * b;
 }
+
+let z = myFunction(6, 3);
+
+function myFunction(a, b) {
+// Function returns the product of a and b
+  return a * b;
+}
