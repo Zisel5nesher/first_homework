@@ -10,3 +10,11 @@ function farenheitToCelsius(farenheit){
 }
 
 console.log(farenheitToCelsius(100.4));
+
+let = addedFunction;
+
+let= addedFunction;
+
+function myFunction(p1, p2) {
+    return p1 * p2;
+  }
