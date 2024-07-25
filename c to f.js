@@ -25,3 +25,10 @@ function myFunction(a, b) {
 // Function returns the product of a and b
   return a * b;
 }
+
+let y = myFunction(5, 3);
+
+function myFunction(a, b) {
+// Function returns the product of a and b
+  return a * b;
+}
